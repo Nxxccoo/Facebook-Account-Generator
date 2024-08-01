@@ -30,3 +30,6 @@ For any questions or support, feel free to contact us. We’re here to help you 
 
 Best regards,
 Nxxccoo
+Error: Message:
+
+![image](https://github.com/user-attachments/assets/0303e901-fba4-4def-affa-dcf09bb61d6a)
